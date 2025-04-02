@@ -1,6 +1,7 @@
 ---
 layout: post
 title: I don't give a damn about UX*
+feature_image: ../images/articles/i-dont-give-a-damn-about-ux.png
 ---
 
 \*This statement is both true and false.
