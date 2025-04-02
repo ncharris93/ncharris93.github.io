@@ -3,8 +3,6 @@ layout: post
 title: I don't give a damn about UX*
 ---
 
-I Don’t Give a Damn About UX\*
-
 \*This statement is both true and false.
 
 The UX I care about isn’t the one most people think of.  
