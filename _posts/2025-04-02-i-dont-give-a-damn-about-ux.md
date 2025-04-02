@@ -6,7 +6,6 @@ title: I don't give a damn about UX*
 \*This statement is both true and false.
 
 The UX I care about isn’t the one most people think of.<br/>
-The users I care about are probably not the users you're thinking of.<br/>
 My UX is better known as DX: Developer Experience.
 
 As engineers, we architect and build systems. But most of the time, we’re not starting from scratch. We’re assembling, shaping, and connecting pieces that other engineers created. We stack complex technologies to solve complex problems, and it can quickly get out of hand.
